@@ -10,7 +10,6 @@ To start using ValidiElData in your Node.js project, you can install it via npm:
 ## 🔧 Usage
 
 Here's an example of how you can utilize ValidiElData to validate user data:
-
    ```bash
    npm install validieldata
 
