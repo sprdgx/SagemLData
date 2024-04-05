@@ -1,6 +1,6 @@
 # 👨🏻‍💻 ValidiElData - Advanced Data Validator Library
 
-Welcome to ValidiElData, an advanced data validation library for Node.js. This library is designed to simplify and enhance data validation processes in your applications, providing robust validation capabilities with ease.
+Welcome to SagemLData, an advanced data validation library for Node.js. This library is designed to simplify and enhance data validation processes in your applications, providing robust validation capabilities with ease.
 
 
 ## 🚀 Installation
@@ -13,7 +13,7 @@ To start using ValidiElData in your Node.js project, you can install it via npm
 
 Here's an example of how you can utilize ValidiElData to validate user data:
 
-1. **Import ValidiElData: Import ValidiElData into your project using require:**
+1. **Import SagemLData: Import SagemLData into your project using require:**
 
    ```bash
    const SagemLData = require('sagemldata');
@@ -84,7 +84,7 @@ Here's an example of how you can utilize ValidiElData to validate user data:
         }
     })();
 
-In this example, we create a validator instance, define a custom validation rule for age, set up user data and validation rules, and then asynchronously validate the data using ValidiElData's validiEZ method. The library checks if the data meets the specified rules and provides detailed validation errors if any.
+In this example, we create a validator instance, define a custom validation rule for age, set up user data and validation rules, and then asynchronously validate the data using SagemLData's SagemEZ method. The library checks if the data meets the specified rules and provides detailed validation errors if any.
 
 ## 🌟 Features
 
@@ -105,10 +105,10 @@ In this example, we create a validator instance, define a custom validation rule
 
 ## 🤝 Contributing
 
-Contributions to ValidiElData are welcome! If you encounter bugs, have feature requests, or wish to contribute enhancements, please open an issue or submit a pull request on the [GitHub repository ](https://github.com/sprdgx/SagemLData).
+Contributions to SagemLData are welcome! If you encounter bugs, have feature requests, or wish to contribute enhancements, please open an issue or submit a pull request on the [GitHub repository ](https://github.com/sprdgx/SagemLData).
 
 ## 📄 License
 
-ValidiElData is licensed under the MIT License.
+SagemLData is licensed under the MIT License.
 
-Thank you for choosing ValidiElData for your data validation needs! If you have any questions or need assistance, feel free to reach out. Happy validating! 🚀
+Thank you for choosing SagemLData for your data validation needs! If you have any questions or need assistance, feel free to reach out. Happy validating! 🚀
