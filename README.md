@@ -105,7 +105,7 @@ In this example, we create a validator instance, define a custom validation rule
 
 ## 🤝 Contributing
 
-Contributions to ValidiElData are welcome! If you encounter bugs, have feature requests, or wish to contribute enhancements, please open an issue or submit a pull request on the [GitHub repository ](https://github.com/sprdgx/sagemldata).
+Contributions to ValidiElData are welcome! If you encounter bugs, have feature requests, or wish to contribute enhancements, please open an issue or submit a pull request on the [GitHub repository ](https://github.com/sprdgx/SagemLData).
 
 ## 📄 License
 
