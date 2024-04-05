@@ -7,7 +7,7 @@ Welcome to ValidiElData, an advanced data validation library for Node.js. This l
 
 To start using ValidiElData in your Node.js project, you can install it via npm
 
-**npm install validieldata**
+**npm install sagemldata**
 
 ## 🔧 Usage
 
@@ -16,26 +16,26 @@ Here's an example of how you can utilize ValidiElData to validate user data:
 1. **Import ValidiElData: Import ValidiElData into your project using require:**
 
    ```bash
-   const ValidiElData = require('validieldata');
+   const SagemLData = require('./SagemLData');
 
 2. **Initialize the Validator: Create an instance of the validator:**
    
    ```bash
-   const validator = new ValidiElData();
+   const validator = new SagemLData();
    
 3. **Add Custom Validation Function: You can add a custom validation function for a specific field :**
 
    ```bash   
     // Add custom validation function
 
-    validator.ZidWchThab('customValidator', async (value) => {
+    validator.SagemLiThab('customValidator', async (value) => {
     // Example custom validation logic
     return value === 'valid';
     });
 
     //  For example lets add a custom validation function for the 'age' field:
 
-    validator.ZidWchThab('ageValidator', async (value) => {
+    validator.SagemLiThab('ageValidator', async (value) => {
     const minAge = 18;
     const maxAge = 100;
 
@@ -72,7 +72,7 @@ Here's an example of how you can utilize ValidiElData to validate user data:
    ```bash
     (async () => {
         try {
-            const validationResult = await validator.validiEZ(userData, validationRules);
+            const validationResult = await validator.SagemEZ(userData, validationRules);
 
             if (validationResult.isValid) {
                 console.log('User data is valid!');
@@ -105,7 +105,7 @@ In this example, we create a validator instance, define a custom validation rule
 
 ## 🤝 Contributing
 
-Contributions to ValidiElData are welcome! If you encounter bugs, have feature requests, or wish to contribute enhancements, please open an issue or submit a pull request on the [GitHub repository ](https://github.com/sprdgx/validieldata).
+Contributions to ValidiElData are welcome! If you encounter bugs, have feature requests, or wish to contribute enhancements, please open an issue or submit a pull request on the [GitHub repository ](https://github.com/sprdgx/sagemldata).
 
 ## 📄 License
 
