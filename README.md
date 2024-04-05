@@ -16,7 +16,7 @@ Here's an example of how you can utilize ValidiElData to validate user data:
 1. **Import ValidiElData: Import ValidiElData into your project using require:**
 
    ```bash
-   const SagemLData = require('./SagemLData');
+   const SagemLData = require('sagemldata');
 
 2. **Initialize the Validator: Create an instance of the validator:**
    
