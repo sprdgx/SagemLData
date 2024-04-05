@@ -7,7 +7,7 @@ Welcome to ValidiElData, an advanced data validation library for Node.js. This l
 
 To start using ValidiElData in your Node.js project, you can install it via npm
 
-npm install validieldata
+**npm install validieldata**
 
 ## 🔧 Usage
 
