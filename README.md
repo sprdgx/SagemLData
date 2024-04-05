@@ -1,4 +1,4 @@
-# 👨🏻‍💻 ValidiElData - Advanced Data Validator Library
+# 👨🏻‍💻 SagemLData - Advanced Data Validator Library
 
 Welcome to SagemLData, an advanced data validation library for Node.js. This library is designed to simplify and enhance data validation processes in your applications, providing robust validation capabilities with ease.
 
